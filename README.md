@@ -1,0 +1,1 @@
+App is using Speech to text, Q/A and Mobile Services from IBM bluemix. The current corpse is the default corpse provided by IBM. Will be updating the corpse soon.

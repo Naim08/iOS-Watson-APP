@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AAE7B6E2D223DBC03DE8AECEF737388219705493",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9C70A85BF20E828CEFF9CE7C74426F50119D6E13" : 0,
+    "AAE7B6E2D223DBC03DE8AECEF737388219705493" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B99311A2-0A93-4355-822B-F15917B77739",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9C70A85BF20E828CEFF9CE7C74426F50119D6E13" : "IBM-Watson-Speech-QA-iOS\/client\/speech-ios-sdk\/",
+    "AAE7B6E2D223DBC03DE8AECEF737388219705493" : "IBM-Watson-Speech-QA-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WatsonSpeechQA",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "client\/WatsonSpeechQA.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/watson-developer-cloud\/speech-ios-sdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9C70A85BF20E828CEFF9CE7C74426F50119D6E13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IBM-Bluemix\/IBM-Watson-Speech-QA-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAE7B6E2D223DBC03DE8AECEF737388219705493"
+    }
+  ]
+}

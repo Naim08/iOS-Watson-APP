@@ -1,0 +1,19 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'WatsonSpeechQA' do
+
+
+
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'IMFPush'
+pod 'IMFData'
+pod 'IMFURLProtocol'
+pod 'IMFCore'
+
+end
+
+target 'WatsonSpeechQATests' do
+
+end
+
